@@ -25,13 +25,13 @@ Follow these steps to set up and run the Chat Gemini project locally:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/divyesh1099/chat-gemini.git
+   git clone https://github.com/divyesh1099/ChatGemini.git
    ```
 
 2. Navigate to the `flutter_frontend` directory:
 
    ```bash
-   cd chat-gemini/flutter_frontend
+   cd ChatGemini/flutter_frontend
    ```
 
 3. Run the Flutter app:
@@ -47,7 +47,7 @@ Follow these steps to set up and run the Chat Gemini project locally:
 1. Navigate to the `flask_backend` directory:
 
    ```bash
-   cd chat-gemini/flask_backend
+   cd ChatGemini/flask_backend
    ```
 
 2. Install the required Python packages:
