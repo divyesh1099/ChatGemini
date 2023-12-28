@@ -98,6 +98,10 @@ To deploy the Flask backend on PythonAnywhere, follow these steps:
 - Send messages to interact with Gemini, the chatbot.
 - Enjoy real-time chat and Markdown rendering!
 
+## Screenshots
+![Screenshot (116)](https://github.com/divyesh1099/ChatGemini/assets/65925922/382abbf0-c8e2-41e0-ae18-2648d9bf8d1f)
+
+
 ## Contributing
 
 Contributions are welcome! Please read our [Contributing Guidelines](CONTRIBUTING.md) for more details.
