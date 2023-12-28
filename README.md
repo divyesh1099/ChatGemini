@@ -125,7 +125,7 @@ You can download and install the application for different platforms from the "r
 - Run the installer and follow the installation instructions.
 - Once installed, launch the app on your Windows computer.
 
-Please note that these releases are for testing and may not be officially deployed. If you encounter any issues or have feedback, feel free to [report them](https://github.com/your-username/your-repo-name/issues).
+Please note that these releases are for testing and may not be officially deployed. If you encounter any issues or have feedback, feel free to [report them](https://github.com/divyesh1099/ChatGemini/issues).
 
 ## Contributing
 
