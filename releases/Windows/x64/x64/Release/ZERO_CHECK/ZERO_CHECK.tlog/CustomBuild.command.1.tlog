@@ -1,0 +1,10 @@
+^D:\FLUTTER\CHATGEMINI\BUILD\WINDOWS\X64\CMAKEFILES\431025AE9EFCA8C5BB9D7450EC743D3D\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -SD:/flutter/chatgemini/windows -BD:/flutter/chatgemini/build/windows/x64 --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file D:/flutter/chatgemini/build/windows/x64/chatgemini.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

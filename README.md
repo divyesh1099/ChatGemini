@@ -99,8 +99,33 @@ To deploy the Flask backend on PythonAnywhere, follow these steps:
 - Enjoy real-time chat and Markdown rendering!
 
 ## Screenshots
+
 ![Screenshot (116)](https://github.com/divyesh1099/ChatGemini/assets/65925922/382abbf0-c8e2-41e0-ae18-2648d9bf8d1f)
 
+## Installation
+
+You can download and install the application for different platforms from the "releases" section. Choose the appropriate platform below:
+
+### Android
+
+- Navigate to the [Android Releases](releases/Android) folder.
+- Download the APK file for Android.
+- Transfer the APK file to your Android device.
+- Install the app on your Android device and start using it.
+
+### Google Chrome
+
+- Access the web version of the application by visiting [Application on Google Chrome](releases/Google%20Chrome).
+- Use the web app directly in your Google Chrome browser without any installation.
+
+### Windows
+
+- Go to the [Windows Releases](releases/Windows) folder.
+- Download the Windows installer.
+- Run the installer and follow the installation instructions.
+- Once installed, launch the app on your Windows computer.
+
+Please note that these releases are for testing and may not be officially deployed. If you encounter any issues or have feedback, feel free to [report them](https://github.com/your-username/your-repo-name/issues).
 
 ## Contributing
 
